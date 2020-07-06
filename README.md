@@ -1,5 +1,4 @@
-# Computer Science Engineer
-<hr>
+# Computer Science Engineer <hr>
 ## Designing and developing front end websites for better user experience and interaction.
 
 
