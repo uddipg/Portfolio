@@ -7,9 +7,11 @@
 <p>I am a creative and dedicated professional.</p>
 <hr>
 
+
 ### Accomplishments
 <p>Firstly, I designed many website interfaces during my degree. Additionally, I designed a website UI using HTML, CSS and Javascript for my major project. Finally I developed a fully functional webisite using javascript frameworks for my capstone project at my university.</p>
 <hr>
+
 
 ### Skills
 <p>I am skilled in front end web designing, UI/UX designing and English (advanced).</p>
