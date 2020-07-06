@@ -1,7 +1,5 @@
 <h1>Computer Science Engineer<h1>
-
 <h2>Designing and developing front end websites for better user experience and interaction.<h2>
-
 <h3>Introduction</h3>
 <p>I am a front end web developer with 6 months of experience, and I am looking for new opportunities in UI/UX designing.<p>
 <p>I am a creative and dedicated professional.</p>
