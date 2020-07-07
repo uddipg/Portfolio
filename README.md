@@ -1,6 +1,7 @@
 # Uddip Ghosh
 ## Computer Science Engineer
-### Designing and developing front end websites for better user experience and interaction.
+<p>Designing and developing front end websites for better user experience and interaction.<p>
+<hr>
 
 <h3>Introduction</h3>
 <p>I am a front end web developer with 6 months of experience, and I am looking for new opportunities in UI/UX designing.<p>
