@@ -8,7 +8,7 @@
 <hr>
 
 <h3>Accomplishments</h3>
-<p>Firstly, I designed many website interfaces during my degree. Additionally, I designed a website UI using HTML, CSS and Javascript for my major project. Finally I developed a fully functional webisite using javascript frameworks for my capstone project at my university.</p>
+<p>Firstly, I designed many website interfaces during my degree. Additionally, I designed a website UI using HTML, CSS and Javascript for my major project in 2019. Finally I developed a responsive webisite using javascript frameworks for my capstone project at my university in 2020</p>
 <hr>
 
 <h3>Skills</h3>
