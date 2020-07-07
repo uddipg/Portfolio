@@ -21,11 +21,21 @@
 <hr>
 
 <h3>Education</h3>
-- Middle School. Bharatiya Vidya Bhavan, Agartala, India
-- Diploma in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2016-May 2019)
-- Bachelor's Degree in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2019-Expected graduation, May 2022)
+<ul>
+  <li>Middle School. Bharatiya Vidya Bhavan, Agartala, India</li>
+  <li>Diploma in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2016-May 2019)</li>
+  <li>Bachelor's Degree in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2019-Expected graduation, May 2022)</li>
+</ul>
 <hr>
 
 <h3>Work Experience</h3>
-- 
+<ul>
+  <li>Major Project</li>
+  <li>Junior Front End Web Developer (Aug 2018-Apr 2019)</li>
+  <ul>
+    <li>Developed a interactive website</li>
+    <li>Modified website user interface</li>
+    <li>Redesigned workflow for team projects</li>
+  </ul>
+</ul>
 <hr>
