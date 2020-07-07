@@ -15,6 +15,6 @@
 <hr>
 
 <h3>Caption & Description</h3>
-<img src="https://raw.githubusercontent.com/uddipg/Portfolio/master/Web%20Dev%20Blog.png" alt="My Project">
+<img src="https://raw.githubusercontent.com/uddipg/Portfolio/master/WebDev%20Blog.png" alt="My Project">
 <p>This is a website I developed for a major project at my university in 2019.</p>
 <p>This website is fully functional and responsive to all screen sizes. It is a Web Developers Blog site that has all the blogs of the developer and also their bio data, links to all their social media platform and more. I am excited about this website, and I am happy about the results.</p>
