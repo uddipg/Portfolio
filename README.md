@@ -18,3 +18,14 @@
 <img src="https://raw.githubusercontent.com/uddipg/Portfolio/master/WebDev%20Blog.png" alt="My Project">
 <p>This is a website I developed for a major project at my university in 2019.</p>
 <p>This website is fully functional and responsive to all screen sizes. It is a Web Developers Blog site that has all the blogs of the developer and also their bio data, links to all their social media platform and more. I am excited about this website, and I am happy about the results.</p>
+<hr>
+
+<h3>Education</h3>
+- Middle School. Bharatiya Vidya Bhavan, Agartala, India
+- Diploma in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2016-May 2019)
+- Bachelor's Degree in Computer Science & Engineering. Lovely Professional University, Phagwara, India (August 2019-Expected graduation, May 2022)
+<hr>
+
+<h3>Work Experience</h3>
+- 
+<hr>
