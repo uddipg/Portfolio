@@ -39,4 +39,3 @@
     <li>Redesigned workflow for team projects</li>
   </ul>
 </ul>
-<hr>
